@@ -6,9 +6,7 @@
 
 ---
 
-Most of the ideas in this book came to me at the wrong time of day.
-
-[Add: the specific night or moment the first idea arrived. Where you were, what you'd been studying, what question was in your head.]
+Most of the ideas here came to me at the wrong time of day.
 
 The thought that started it was simple: maybe consciousness isn't a special thing that brains do. Maybe it's an ordinary thing that *everything* does, and brains are just an extreme case of it.
 
