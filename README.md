@@ -29,16 +29,16 @@ If you find a claim with the wrong tag, or no tag, please tell me.
 1. [Late-Night Physics: Where This Started](chapters/01-late-night-physics.md)
 2. [Flatland: What Dimensions Can and Can't Do](chapters/02-flatland.md)
 3. [Worldlines and the Space of Possibilities](chapters/03-worldlines.md)
-4. Calculable but Unpredictable: Chaos *(coming)*
-5. Information as the Foundation *(coming)*
-6. How Things Become Real: Collapse and Decoherence *(coming)*
-7. Why Facts Stick: Irreversibility *(coming)*
-8. Time's Arrow *(coming)*
-9. Actualization vs. Experience: The Consciousness Question *(coming)*
-10. Patterns, Forecasting, and Clairvoyance *(coming)*
-11. Morality as an Emergent Group Property *(coming)*
-12. Higher-Dimensional Observers *(openly metaphysical, coming)*
-13. Open Questions, and How to Prove Me Wrong *(coming)*
+4. [Calculable but Unpredictable: Chaos](chapters/04-chaos.md)
+5. [Information as the Foundation](chapters/05-information.md)
+6. [How Things Become Real: Collapse and Decoherence](chapters/06-collapse.md)
+7. [Why Facts Stick: Irreversibility](chapters/07-irreversibility.md)
+8. [Time's Arrow](chapters/08-times-arrow.md)
+9. [Actualization vs. Experience: The Consciousness Question](chapters/09-consciousness.md)
+10. [Patterns, Forecasting, and Clairvoyance](chapters/10-forecasting.md)
+11. [Morality as an Emergent Group Property](chapters/11-morality.md)
+12. [Higher-Dimensional Observers](chapters/12-higher-observers.md) *(openly philosophical)*
+13. [Open Questions, and How to Prove Me Wrong](chapters/13-open-questions.md)
 
 ## How to give feedback
 
