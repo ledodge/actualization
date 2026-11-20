@@ -6,6 +6,8 @@
 
 📄 [Download the whole book as a PDF](actualization.pdf)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24398682.svg)](https://doi.org/10.5281/zenodo.24398682)
+
 ---
 
 This is a free, open book about one idea and what happened when I tried to test it.
