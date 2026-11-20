@@ -3,7 +3,7 @@
 ### Where this started
 ---
 
-Most of the ideas here came to me at the wrong time of day.
+Most of the ideas here came to me at the wrong time of day. Somewhere near midnight in early September, pressing me until 3:30am to get the intangible out.
 
 The thought that started it was simple: maybe consciousness isn't a special thing that brains do. Maybe it's an ordinary thing that *everything* does, and brains are just an extreme case of it.
 
