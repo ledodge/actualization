@@ -4,6 +4,8 @@
 
 **by Lindsey E. Dodge**
 
+📄 [Download the whole book as a PDF](actualization.pdf)
+
 ---
 
 This is a free, open book about one idea and what happened when I tried to test it.

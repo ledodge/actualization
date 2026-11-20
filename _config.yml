@@ -1,0 +1,7 @@
+title: Actualization
+description: A physics student's evolving theory of how things become real. A free, open book by Lindsey E. Dodge.
+theme: jekyll-theme-minimal
+exclude:
+  - build
+  - CITATION.cff
+  - .zenodo.json

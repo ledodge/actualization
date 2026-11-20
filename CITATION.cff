@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you cite this book, please cite it as below."
+title: "Actualization: A physics student's evolving theory of how things become real"
+authors:
+  - family-names: Dodge
+    given-names: Lindsey E.
+license: CC-BY-NC-4.0
+repository-code: "https://github.com/ledodge/actualization"
+preferred-citation:
+  type: book
+  title: "Actualization: A physics student's evolving theory of how things become real"
+  authors:
+    - family-names: Dodge
+      given-names: Lindsey E.
+  year: 2026
+  url: "https://github.com/ledodge/actualization"
