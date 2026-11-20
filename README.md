@@ -27,7 +27,7 @@ If you find a claim with the wrong tag, or no tag, please tell me.
 ## Contents
 
 1. [Late-Night Physics: Where This Started](chapters/01-late-night-physics.md)
-2. Flatland: What Dimensions Can and Can't Do *(coming)*
+2. [Flatland: What Dimensions Can and Can't Do](chapters/02-flatland.md)
 3. Worldlines and the Space of Possibilities *(coming)*
 4. Calculable but Unpredictable: Chaos *(coming)*
 5. Information as the Foundation *(coming)*
