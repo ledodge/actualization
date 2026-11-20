@@ -61,4 +61,4 @@ The final chapter is a list of ways to prove me wrong. If you find one I didn't 
 
 **What would change my mind about this chapter:** if the three-category tagging system turns out to be confusing or misapplied, or if it turns out the "evolving theory" format makes the ideas harder to follow rather than easier.
 
-**Discuss this chapter:** [link to Discussions thread]
+**Discuss this chapter:** [Discussion #1](https://github.com/ledodge/actualization/discussions/1)
