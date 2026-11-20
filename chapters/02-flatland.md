@@ -99,4 +99,4 @@ The original intuition was a pile of three good ideas wearing one name. Separati
 
 **Further reading:** Edwin Abbott, *Flatland* (1884, public domain); A.K. Dewdney, *The Planiverse* (1984); Ian Stewart, *Flatterland* (2001); any introduction to spacetime diagrams, such as Taylor & Wheeler, *Spacetime Physics*.
 
-**Discuss this chapter:** [link to Discussions thread]
+**Discuss this chapter:** [Discussion #2](https://github.com/ledodge/actualization/discussions/2)
