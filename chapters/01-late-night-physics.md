@@ -1,9 +1,6 @@
 # Chapter 1: Late-Night Physics
 
 ### Where this started
-
-> *Draft notes for Lindsey: passages in [brackets] are for you to fill in from your own experience. Everything else is a starting point. Rewrite anything that doesn't sound like you.*
-
 ---
 
 Most of the ideas here came to me at the wrong time of day.
